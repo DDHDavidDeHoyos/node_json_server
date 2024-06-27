@@ -1,0 +1,56 @@
+{
+    "alumnos": [
+        {
+            "nombre": "juan",
+            "apellido": "messi",
+            "edad": 18,
+            "sexo": "femenino",
+            "materias": [
+                "economía",
+                "álgebra",
+                "administración",
+                "teoría contable"
+            ]
+        },
+        {
+            "nombre": "bautista",
+            "apellido": "bisbal",
+            "edad": 20,
+            "sexo": "masculino",
+            "materias": [
+                "matemáticas",
+                "física",
+                "química",
+                "computación"
+            ]
+        }
+    ],
+    
+    "animales": [
+        {
+            "nombre": "perro",
+            "edad": 2,
+            "sexo": "macho"
+        },
+        {
+            "nombre": "gato",
+            "edad": 1,
+            "sexo": "hembra"
+        }
+    ],
+
+    "paises": [
+        {
+            "nombre": "argentina",
+            "poblacion": 45000000
+        },
+        {
+            "nombre": "brasil",
+            "poblacion": 210000000
+        },
+        {
+            "nombre": "mexico",
+            "poblacion": 125000000
+        }
+    ]
+}

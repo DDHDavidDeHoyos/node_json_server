@@ -1,0 +1,14 @@
+{
+  "name": "proyectojsonserver",
+  "version": "0.0.1",
+  "description": "levantamos nuestro primer servidor Json-Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "DDHDavidDeHoyos",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
